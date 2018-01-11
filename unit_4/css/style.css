@@ -8,6 +8,7 @@ body{
 }
 p {
     font-size: 22px;
+    font-family: 'Bellefair', serif;
 }
 p#slogan {
 	font-style: italic;
@@ -20,7 +21,9 @@ ul {
 }
 h4 {
 	text-align: center;
+  font-family: fantasy;
 }
 h2 {
     text-decoration: underline;
+    font-family: fantasy;
 }
