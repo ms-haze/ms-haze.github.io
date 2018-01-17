@@ -1,12 +1,14 @@
+@import url('https://fonts.googleapis.com/css?family=Bree+Serif|Raleway');
+
 body{
   text-align: center;
   background-image: url("https://c2.staticflickr.com/2/1513/25900707212_c0e97bb5fb_o.jpg");
-  background-size: cover;
+  background-size: contain;
   color: #FFFFFF;
 }
 p {
     font-size: 22px;
-    font-family: 'Source Sans Pro', sans-serif ;
+    font-family: 'Bree Serif', serif;
 }
 p#slogan {
 	font-style: italic;
@@ -19,7 +21,7 @@ ul {
 }
 h4 {
 	text-align: center;
-  font-family:'Bellefair', serif;
+  font-family: 'Raleway', sans-serif;
 }
 h2 {
     text-decoration: underline;
