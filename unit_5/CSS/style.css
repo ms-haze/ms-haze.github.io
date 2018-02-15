@@ -7,6 +7,24 @@ body{
   color: #000;
 }
 
+header {
+    background-color: #FFED74;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+nav {
+    background-color: #E8C66A;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+article {
+    background-color: #E89C6C;
+    border: 1px black solid;
+    padding: 20px;
+}
+
 h2 {
     text-decoration: underline;
     font-family: 'Bree Serif', serif;
@@ -27,6 +45,10 @@ p#slogan {
 
 div {
   text-align: center;
+  background-color: #FFE2B8;
+  border: 1px black solid;
+  padding: 20px;
+
 }
 
 ul {
@@ -34,5 +56,9 @@ ul {
 }
 
 footer {
-  text-align: center;
+   text-align: center;
+   background-color: #FF957E;
+   border: 1px black solid;
+   padding: 20px;
+
 }
