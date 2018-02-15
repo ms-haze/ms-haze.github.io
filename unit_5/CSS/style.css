@@ -7,11 +7,6 @@ body{
   color: #000;
 }
 
-h1 {
-  padding: 400px;
-  width: 20px;
-}
-
 h2 {
     text-decoration: underline;
     font-family: 'Bree Serif', serif;
@@ -40,5 +35,4 @@ ul {
 
 footer {
   text-align: center;
-  padding: 1em 0;
 }
