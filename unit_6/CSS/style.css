@@ -1,0 +1,102 @@
+@import url('https://fonts.googleapis.com/css?family=Bree+Serif|Raleway');
+
+body{
+  text-align: center;
+  background-color: #7C93FF;
+  background-size: contain;
+  color: #000;
+}
+
+header {
+    background-color: #FFED74;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+nav {
+    background-color: #E8C66A;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+ul {
+  display: inline-block; text-align: left;
+}
+
+article {
+    background-color: #E89C6C;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+h2 {
+    text-decoration: underline;
+    font-family: 'Bree Serif', serif;
+}
+
+h4 {
+  text-align: center;
+  font-family: 'Bree Serif', serif;
+}
+
+p {
+    font-size: 22px;
+    font-family: 'Raleway', sans-serif;
+}
+
+p#slogan {
+	font-style: italic;
+}
+
+div {
+  text-align: center;
+  background-color: #FFE2B8;
+  border: 1px black solid;
+  padding: 20px;
+}
+
+section {
+  text-align: center;
+  background-color: #FFE2B8;
+  border: 1px black solid;
+  padding: 20px;
+}
+
+#two_column {
+    background-color: #FFB7CF;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+#left {
+    background-color: violet;
+    border: 1px black solid;
+    padding: 20px;
+    float: left;
+    width: 30%;
+}
+
+#right {
+    bbackground-color: pink;
+    border: 1px black solid;
+    padding: 20px;
+    float: right;   
+    width: 62%;
+}
+
+.clearfix:after {
+    visibility: hidden;
+    display: block;
+    font-size: 0;
+    content: " ";
+    clear: both;
+    height: 0;
+}
+
+footer {
+   text-align: center;
+   background-color: #FF957E;
+   border: 1px black solid;
+   padding: 20px;
+
+}
