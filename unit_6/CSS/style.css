@@ -23,10 +23,10 @@ nav {
 }
 
 a {
-  background-color: #ff7900;
+  background-color: #36C7E8;
   color: white;
   text-decoration: none;
-  display: block;
+  display: inline-block;
   float: left;
   padding: 20px;
 }
