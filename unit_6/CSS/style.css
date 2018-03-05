@@ -6,6 +6,7 @@ body{
   background-size: contain;
   color: #000;
   padding: 40px;
+  margin: 50px;
 }
 
 header {
@@ -17,7 +18,7 @@ header {
 nav {
     background-color: #E8C66A;
     border: 1px black solid;
-    padding: 40px;
+    padding: 20px;
     margin: 50px;
 }
 
