@@ -26,7 +26,7 @@ nav {
 a {
   background-color: #ff7900;
   color: white;
-  text-decoration: none;
+  text-decoration: underline;
   display: inline-block;
   float: none;
   padding: 20px;
