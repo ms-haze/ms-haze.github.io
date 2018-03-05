@@ -28,7 +28,7 @@ a {
   color: white;
   text-decoration: none;
   display: inline-block;
-  float: left;
+  float: none;
   padding: 20px;
 }
 
