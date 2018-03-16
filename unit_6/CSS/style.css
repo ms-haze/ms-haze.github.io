@@ -18,7 +18,7 @@ nav {
     border: 1px black solid;
 }
 
-a {
+nav a {
   background-color: #ff7900;
   color: white;
   text-decoration: underline;
