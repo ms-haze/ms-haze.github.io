@@ -2,10 +2,11 @@
 * { margin:0; padding:0; box-sizing:border-box; }
 body{
   background-color: #E80C8A;
+  background-size: contain;
   color: rgba(0,0,0,.85);
+  padding: 40px;
+  margin: 50px;
 }
-
-head{
 	
 header {
     background-color: #C36FFF;
