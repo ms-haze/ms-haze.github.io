@@ -23,8 +23,8 @@ nav {
 }
 
 nav a {
-  background-color: #000;
-  color: white;
+  background-color: #E8D163;
+  color: black;
   text-decoration: underline;
   display: inline-block;
   float: none;
@@ -37,7 +37,7 @@ ul {
 
 article {
   text-align: center;
-  background-color: #FF7069;
+  background-color: #E8D163;
   border: 1px white solid;
   padding: 20px;
 }
@@ -70,7 +70,7 @@ div {
 
 section {
   text-align: center;
-  background-color: #FF7069;
+  background-color: #E8D163;
   border: 1px white solid;
   padding: 20px;
 }
