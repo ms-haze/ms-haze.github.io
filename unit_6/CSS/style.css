@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Bree+Serif|Raleway');
 * { margin:0; padding:0; box-sizing:border-box; }
 body{
-  background-color: #E80C8A;
+  background-color: #000;
   background-size: contain;
   color: rgba(0,0,0,.85);
   padding: 40px;
@@ -10,8 +10,7 @@ body{
 	
 header {
     background-color: #C36FFF;
-    border: 1px black solid;
-    text-align: center;
+    border: 1px white solid;
     display: block;
     padding: 0;
     margin: 0;
@@ -19,7 +18,7 @@ header {
 
 nav {
     background-color: #E8C66A;
-    border: 1px black solid;
+    border: 1px white solid;
 }
 
 nav a {
@@ -38,7 +37,7 @@ ul {
 article {
     background-color: #E89C6C;
     text-align: center;
-    border: 1px black solid;
+    border: 1px white solid;
     padding: 20px;
 }
 
@@ -64,26 +63,26 @@ p#slogan {
 div {
   text-align: center;
   background-color: #FFE2B8;
-  border: 1px black solid;
+  border: 1px white solid;
   padding: 20px;
 }
 
 section {
   text-align: center;
   background-color: #FF7069;
-  border: 1px black solid;
+  border: 1px white solid;
   padding: 20px;
 }
 
 #two_column {
     background-color: #FFB7CF;
-    border: 1px black solid;
+    border: 1px white solid;
     padding: 20px;
 }
 
 #left {
     background-color: violet;
-    border: 1px black solid;
+    border: 1px white solid;
     padding: 20px;
     float: left;
     width: 30%;
@@ -91,7 +90,7 @@ section {
 
 #right {
     bbackground-color: pink;
-    border: 1px black solid;
+    border: 1px white solid;
     padding: 20px;
     float: right;   
     width: 62%;
@@ -109,6 +108,6 @@ section {
 footer {
    text-align: center;
    background-color: #FF957E;
-   border: 1px black solid;
+   border: 1px white solid;
    padding: 0;
 }
