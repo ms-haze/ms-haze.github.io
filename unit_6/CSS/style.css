@@ -9,7 +9,7 @@ body{
 }
 	
 header {
-    background-color: #C36FFF;
+    background-color: #50228F;
     border: 1px white solid;
     display: block;
     padding: 0;
@@ -17,12 +17,12 @@ header {
 }
 
 nav {
-    background-color: #E8C66A;
+    background-color: #50228F;
     border: 1px white solid;
 }
 
 nav a {
-  background-color: #ff7900;
+  background-color: #000;
   color: white;
   text-decoration: underline;
   display: inline-block;
